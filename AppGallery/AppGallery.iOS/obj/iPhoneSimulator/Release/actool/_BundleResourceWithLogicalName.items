@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Assets.car">
+      <Optimize>false</Optimize>
+      <LogicalName>Assets.car</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone20x20@2x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone20x20@2x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone20x20@2x~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone20x20@2x~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone20x20@3x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone20x20@3x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone20x20~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone20x20~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone29x29@2x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone29x29@2x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone29x29@2x~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone29x29@2x~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone29x29@3x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone29x29@3x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone29x29~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone29x29~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone40x40@2x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone40x40@2x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone40x40@2x~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone40x40@2x~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone40x40@3x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone40x40@3x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone40x40~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone40x40~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone60x60@2x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone60x60@2x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone60x60@3x.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone60x60@3x.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone76x76@2x~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone76x76@2x~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone76x76~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone76x76~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Release\actool\bundle\Icone83.5x83.5@2x~ipad.png">
+      <Optimize>false</Optimize>
+      <LogicalName>Icone83.5x83.5@2x~ipad.png</LogicalName>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

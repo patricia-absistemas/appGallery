@@ -13,3 +13,7 @@ C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.dll
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\ref\AppGallery.dll
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.pdb
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarimForms\Paginas\PaginaDeConteudo\Conteudo01.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarimForms\Paginas\PaginaDeNavegacao\Conteudo01.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarimForms\Paginas\PaginaDeNavegacao\Conteudo02.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarimForms\Paginas\PaginaDeNavegacao\Conteudo03.xaml.g.cs

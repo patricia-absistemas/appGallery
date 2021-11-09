@@ -95,3 +95,4 @@ C:\Dev\AppGallery\AppGallery\AppGallery.iOS\obj\iPhoneSimulator\Debug\CopyFilesT
 C:\Dev\AppGallery\AppGallery\AppGallery.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AppGallery.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 C:\Dev\AppGallery\AppGallery\AppGallery.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
 C:\Dev\AppGallery\AppGallery\AppGallery.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+C:\Dev\AppGallery\AppGallery\AppGallery.iOS\obj\iPhoneSimulator\Debug\AppGallery.iOS.csproj.AssemblyReference.cache
