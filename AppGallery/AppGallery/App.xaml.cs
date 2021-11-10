@@ -22,8 +22,19 @@ namespace AppGallery
             pagina.Children.Add(new XamarimForms.Paginas.PaginaDeCarrossel.Conteudo02());
             pagina.Children.Add(new XamarimForms.Paginas.PaginaDeCarrossel.Conteudo03());
 
-            pagina.CurrentPage = pagina.Children[1]; */
-            MainPage = new XamarimForms.Paginas.PaginaDeCarrossel.Carrossel();
+            pagina.CurrentPage = pagina.Children[1];
+            
+            var pagina = new MasterDetailPage();
+            //Menu
+            pagina.Master =  ;
+            //Conteúdo
+            pagina.Detail =  ;
+ 
+             */
+
+
+
+            MainPage = new XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral();
           
         }
 

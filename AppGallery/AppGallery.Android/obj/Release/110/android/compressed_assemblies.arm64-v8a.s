@@ -17,7 +17,7 @@
 
 	/* 1: AppGallery.dll */
 	/* uncompressed_file_size */
-	.word	23040
+	.word	28672
 	/* loaded */
 	.byte	0
 	/* data */

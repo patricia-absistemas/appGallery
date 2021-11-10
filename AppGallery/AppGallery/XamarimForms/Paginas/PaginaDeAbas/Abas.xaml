@@ -2,8 +2,23 @@
 <TabbedPage
     x:Class="AppGallery.XamarimForms.Paginas.PaginaDeAbas.Abas"
     xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
-    <!--  Pages can be added as references or inline  -->
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+    android:TabbedPage.ToolbarPlacement="Bottom"
+    BarBackgroundColor="Black"
+    SelectedTabColor="Red"
+    UnselectedTabColor="DarkGray">
+
+    <ContentPage Title="Tab 2" IconImageSource="logo.png">
+        <StackLayout>
+            <Label
+                HorizontalOptions="Center"
+                Text="Pagina 02"
+                VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage>
+
+    <!--  Pages can be added as references or inline
     <ContentPage Title="Tab 1">
         <StackLayout>
             <Label
@@ -12,22 +27,15 @@
                 VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage>
-    <ContentPage Title="Tab 1">
-        <StackLayout>
-            <Label
-                HorizontalOptions="Center"
-                Text="Pagina 02"
-                VerticalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage>
-    <ContentPage Title="Tab 1">
+
+    <ContentPage Title="Tab 3">
         <StackLayout>
             <Label
                 HorizontalOptions="Center"
                 Text="Pagina 03"
                 VerticalOptions="CenterAndExpand" />
         </StackLayout>
-    </ContentPage>
+    </ContentPage>-->
 
 
 </TabbedPage>

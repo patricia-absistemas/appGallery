@@ -15,6 +15,7 @@ namespace AppGallery.XamarimForms.Paginas.PaginaDeAbas
         public Abas()
         {
             InitializeComponent();
+           // CurrentPage = Children[1];
         }
     }
 }

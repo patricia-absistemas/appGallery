@@ -37,7 +37,7 @@
 
 	/* 1: AppGallery.dll */
 	/* uncompressed_file_size */
-	.long	23040
+	.long	28672
 	/* loaded */
 	.byte	0
 	/* data */
