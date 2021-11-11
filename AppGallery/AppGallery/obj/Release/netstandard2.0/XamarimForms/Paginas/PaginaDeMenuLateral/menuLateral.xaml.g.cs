@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.menuLateral.xaml", "XamarimForms/Paginas/PaginaDeMenuLateral/menuLateral.xaml", typeof(global::AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral.xaml", "XamarimForms/Paginas/PaginaDeMenuLateral/MenuLateral.xaml", typeof(global::AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.Conteudo01))]
 
 namespace AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("XamarimForms\\Paginas\\PaginaDeMenuLateral\\menuLateral.xaml")]
-    public partial class Page1 : global::Xamarin.Forms.FlyoutPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("XamarimForms\\Paginas\\PaginaDeMenuLateral\\MenuLateral.xaml")]
+    public partial class Conteudo01 : global::Xamarin.Forms.FlyoutPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Conteudo01));
         }
     }
 }

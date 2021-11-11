@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Conteudo01 : ContentPage
+    public partial class MenuLateral : ContentPage
     {
-        public Conteudo01()
+        public MenuLateral()
         {
             InitializeComponent();
         }

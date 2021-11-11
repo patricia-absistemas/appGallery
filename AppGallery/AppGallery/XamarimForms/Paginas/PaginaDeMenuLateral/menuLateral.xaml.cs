@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
-namespace AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral
+namespace AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class MenuLateral : MasterDatailPage
+    public partial class MenuLateral : FlyoutPage
     {
         public MenuLateral()
         {
