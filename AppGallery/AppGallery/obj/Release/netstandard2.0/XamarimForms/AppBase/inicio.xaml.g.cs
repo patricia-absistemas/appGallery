@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.XamarimForms.AppBase.inicio.xaml", "XamarimForms/AppBase/inicio.xaml", typeof(global::AppGallery.XamarimForms.AppBase.inicio))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.XamarimForms.AppBase.Inicio.xaml", "XamarimForms/AppBase/Inicio.xaml", typeof(global::AppGallery.XamarimForms.AppBase.Inicio))]
 
 namespace AppGallery.XamarimForms.AppBase {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("XamarimForms\\AppBase\\inicio.xaml")]
-    public partial class inicio : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("XamarimForms\\AppBase\\Inicio.xaml")]
+    public partial class Inicio : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(inicio));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Inicio));
         }
     }
 }

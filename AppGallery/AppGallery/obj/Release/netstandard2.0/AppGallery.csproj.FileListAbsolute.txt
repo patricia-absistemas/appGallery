@@ -29,3 +29,9 @@ C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\Paginas\PaginaDeMenuLateral\Conteudo02.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\Paginas\PaginaDeMenuLateral\Conteudo03.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\Paginas\PaginaDeMenuLateral\menuLateral.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\AppBase\Inicio.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\AppBase\Menu.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\AppBase\Inicio.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\AppBase\Menu.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\Leiautes\PilhaLeiaute\Pilha.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Release\netstandard2.0\XamarimForms\Leiautes\GridLeiaute\Grade.xaml.g.cs

@@ -14,7 +14,7 @@ namespace AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("XamarimForms\\Paginas\\PaginaDeMenuLateral\\MenuLateral.xaml")]
-    public partial class Conteudo01 : global::Xamarin.Forms.FlyoutPage {
+    public partial class Conteudo01 : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

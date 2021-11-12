@@ -29,13 +29,15 @@ namespace AppGallery
             pagina.Master =  ;
             //Conteúdo
             pagina.Detail =  ;
+
+            MainPage = new XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral();
  
              */
 
+            MainPage = new XamarimForms.AppBase.Menu();
 
 
-            MainPage = new XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral();
-          
+
         }
 
         protected override void OnStart()

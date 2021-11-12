@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage
+    x:Class="AppGallery.XamarimForms.AppBase.Menu"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AppGallery.XamarimForms.AppBase">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Label Text="Páginas" />
+                <Button Clicked="AbrirContentPage" Text="ContentPage" />
+                <Button Clicked="AbrirNavigationPage" Text="NavigationPage" />
+                <Button Clicked="AbrirCarousselPage" Text="CarousselPage" />
+                <Button Clicked="AbrirTabbedPage" Text="TabbedPage" />
+                <Button Clicked="AbrirPaginaModal" Text="Modal" />
+
+                <Label Text="Leiautes" />
+                <Button Clicked="AbrirStackLayout" Text="StackLayout" />
+                <Button Clicked="AbrirGrid" Text="Grid" />
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <local:Inicio />
+            </x:Arguments>
+
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

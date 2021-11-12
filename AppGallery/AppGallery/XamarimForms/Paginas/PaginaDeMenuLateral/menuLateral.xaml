@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<FlyoutPage
+<MasterDetailPage
     x:Class="AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.Conteudo01"
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral.MenuLateral">
+    xmlns:local="clr-namespace:AppGallery.XamarimForms.Paginas.PaginaDeMenuLateral">
     <!--  Menu  -->
-    <FlyoutPage.Flyout>
+    <MasterDetailPage.Master>
         <ContentPage Title="Menu">
             <StackLayout>
                 <Button Clicked="Button_Clicked" Text="Página 01" />
@@ -13,7 +13,7 @@
                 <Button Clicked="Button_Clicked_2" Text="Página 03" />
             </StackLayout>
         </ContentPage>
-    </FlyoutPage.Flyout>
+    </MasterDetailPage.Master>
 
 
     <!--  Conteúdo  -->
@@ -24,7 +24,7 @@
             </x:Arguments>
         </NavigationPage>
     </FlyoutPage.Detail>
-</FlyoutPage>
+</MasterDetailPage>
 
 
 
