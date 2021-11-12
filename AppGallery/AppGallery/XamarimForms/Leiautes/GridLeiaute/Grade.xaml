@@ -4,7 +4,10 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.Content>
-        <Grid BackgroundColor="#707070">
+        <Grid
+            BackgroundColor="#707070"
+            ColumnSpacing="1"
+            RowSpacing="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition />
                 <ColumnDefinition />
@@ -13,7 +16,7 @@
             </Grid.ColumnDefinitions>
 
             <Grid.RowDefinitions>
-                <RowDefinition />
+                <RowDefinition Height="150" />
                 <RowDefinition />
                 <RowDefinition />
                 <RowDefinition />
@@ -21,42 +24,124 @@
                 <RowDefinition />
             </Grid.RowDefinitions>
 
+            <Label
+                Grid.ColumnSpan="4"
+                Margin="10"
+                FontSize="48"
+                HorizontalOptions="End"
+                Text="Olá Mundo!"
+                TextColor="White"
+                VerticalOptions="Center" />
+            <StackLayout
+                Grid.ColumnSpan="4"
+                BackgroundColor="Black"
+                Opacity="0.5" />
+
+            <!--  6 Linha  -->
+            <Button
+                Grid.Row="5"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                BackgroundColor="#C9CACD"
+                Text="0" />
+            <Button
+                Grid.Row="5"
+                Grid.Column="2"
+                BackgroundColor="#C9CACD"
+                Text="." />
+            <Button
+                Grid.Row="5"
+                Grid.Column="3"
+                BackgroundColor="#fb8c0D"
+                Text="=" />
+
+            <!--  5 Linha  -->
             <Button
                 Grid.Row="4"
                 Grid.Column="0"
+                BackgroundColor="#C9CACD"
                 Text="1" />
             <Button
                 Grid.Row="4"
                 Grid.Column="1"
+                BackgroundColor="#C9CACD"
                 Text="2" />
             <Button
                 Grid.Row="4"
                 Grid.Column="2"
+                BackgroundColor="#C9CACD"
                 Text="3" />
+            <Button
+                Grid.Row="4"
+                Grid.Column="3"
+                BackgroundColor="#fb8c0D"
+                Text="+" />
+
+            <!--  4 Linha  -->
             <Button
                 Grid.Row="3"
                 Grid.Column="0"
+                BackgroundColor="#C9CACD"
                 Text="4" />
             <Button
                 Grid.Row="3"
                 Grid.Column="1"
+                BackgroundColor="#C9CACD"
                 Text="5" />
             <Button
                 Grid.Row="3"
                 Grid.Column="2"
+                BackgroundColor="#C9CACD"
                 Text="6" />
+            <Button
+                Grid.Row="3"
+                Grid.Column="3"
+                BackgroundColor="#fb8c0D"
+                Text="-" />
+
+            <!--  3 Linha  -->
             <Button
                 Grid.Row="2"
                 Grid.Column="0"
+                BackgroundColor="#C9CACD"
                 Text="7" />
             <Button
                 Grid.Row="2"
                 Grid.Column="1"
+                BackgroundColor="#C9CACD"
                 Text="8" />
             <Button
                 Grid.Row="2"
                 Grid.Column="2"
+                BackgroundColor="#C9CACD"
                 Text="9" />
+            <Button
+                Grid.Row="2"
+                Grid.Column="3"
+                BackgroundColor="#fb8c0D"
+                Text="x" />
+
+            <!--  2 Linha  -->
+            <Button
+                Grid.Row="1"
+                Grid.Column="0"
+                BackgroundColor="#C9CACD"
+                Text="C" />
+            <Button
+                Grid.Row="1"
+                Grid.Column="1"
+                BackgroundColor="#C9CACD"
+                Text="+/-" />
+            <Button
+                Grid.Row="1"
+                Grid.Column="2"
+                BackgroundColor="#C9CACD"
+                Text="%" />
+            <Button
+                Grid.Row="1"
+                Grid.Column="3"
+                BackgroundColor="#fb8c0D"
+                Text="/" />
         </Grid>
     </ContentPage.Content>
 </ContentPage>
